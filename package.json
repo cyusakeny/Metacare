@@ -1,0 +1,16 @@
+{
+  "name": "metacare",
+  "version": "1.0.0",
+  "description": "Backend work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyusa Keny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.5",
+    "nodemon": "^2.0.15"
+  }
+}
